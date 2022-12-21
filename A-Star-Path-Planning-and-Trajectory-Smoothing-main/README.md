@@ -1,7 +1,3 @@
-It's a joint work between - 
-- [Yash Patel](https://www.github.com/yyashpatel)
-- [Dhruv Patel](https://www.github.com/yyashpatel)
-
 # Implementation of A* and Path smoothing.
 
 This project involves the implementation of A* planner. After obtaining the path, control commands (i.e. velocity to the left and right wheels) were provided to the turtlebot3 to follow the obtained trajectory.
